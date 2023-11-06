@@ -2,3 +2,5 @@ Yuri Resolusi
 -Konsisten Belajar Min 1 Jam setiap hari
 -Mampu memahami HTML, CSS, JS, PHP, FRAMEWORK
 -Learning by project
+-Mampu mengerjakan project front end sendiri
+-Kolaborasi dengan pae
